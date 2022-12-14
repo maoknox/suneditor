@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suneditor/static/css/main.4f0875c7.css",
+    "main.js": "/suneditor/static/js/main.cfe9fd8c.js",
+    "static/js/787.d383b346.chunk.js": "/suneditor/static/js/787.d383b346.chunk.js",
+    "index.html": "/suneditor/index.html",
+    "main.4f0875c7.css.map": "/suneditor/static/css/main.4f0875c7.css.map",
+    "main.cfe9fd8c.js.map": "/suneditor/static/js/main.cfe9fd8c.js.map",
+    "787.d383b346.chunk.js.map": "/suneditor/static/js/787.d383b346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0875c7.css",
+    "static/js/main.cfe9fd8c.js"
+  ]
+}
